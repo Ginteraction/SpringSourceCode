@@ -1,0 +1,15 @@
+// spring->核心是 servlet  DispatchServLET
+IOC/AOP   IOC就是个容器（cup）,这个容器是用来装bean的
+JAVA实例 --IOC容器（核心就是个很大的map对象）:
+Map iocMap=new HashMap();
+OrderService orderservice=new OrderService();
+iocMap.put("orderService",orderService);
+
+如何使用：
+@Autowired
+private OrderService orderService;
+到IOC容器拿不到bean,就会报空
+
+
+
+
