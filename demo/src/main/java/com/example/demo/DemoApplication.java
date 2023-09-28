@@ -27,7 +27,7 @@ public class DemoApplication {
                 ret.append(count);
                 p1 = p2;
 
-            }else{
+            } else {
                 ret.append(src.charAt(p1));
                 ret.append(1);
                 p1++;
@@ -36,22 +36,17 @@ public class DemoApplication {
         return ret.toString();
     }
 
-//    public static void main(String[] args) {
-////        SpringApplication.run(DemoApplication.class, args);
-//        String strng = "aaabbbccccc";
-//        String result=compress(strng);
-//        System.out.println(result);
-//
-//
-//
-//    }
+    public static void main(String[] args) {
+        SpringApplication.run(DemoApplication.class, args);
+    }
 
     /**
      * 交换两个数
+     *
      * @param a
      * @param b
      */
-    public static void exchangeTwoNum(int a,int b){
+    public static void exchangeTwoNum(int a, int b) {
         // 方式一
 //        int temp=a;
 //        a=b;
@@ -63,34 +58,34 @@ public class DemoApplication {
 //        a=a-b;
 //        System.out.println("a=+"+a+"b="+b);
         // 方式三 位运算
-        a=a^b;
-        b=a^b;
-        a=a^b;
-        System.out.println("a=+_"+a+"b="+b);
+        a = a ^ b;
+        b = a ^ b;
+        a = a ^ b;
+        System.out.println("a=+_" + a + "b=" + b);
 
     }
 
-    public static void main(String[] args) {
-
-        /**
-         * 二进制转十进制
-         * @param args
-         */
-//        String strng = "aaabbbccccc";
-//        String result=compress(strng);
-//        System.out.println(result);
-        exchangeTwoNum(10,20);
-
-        /**
-         * 位运算
-         */
-        int a=128;
-        int b=129;
-        System.out.println(a&b);
-        System.out.println(a|b);
-        System.out.println(~a);
-        System.out.println(a^b);
-
-    }
+//    public static void main(String[] args) {
+//
+//        /**
+//         * 二进制转十进制
+//         * @param args
+//         */
+////        String strng = "aaabbbccccc";
+////        String result=compress(strng);
+////        System.out.println(result);
+//        exchangeTwoNum(10,20);
+//
+//        /**
+//         * 位运算
+//         */
+//        int a=128;
+//        int b=129;
+//        System.out.println(a&b);
+//        System.out.println(a|b);
+//        System.out.println(~a);
+//        System.out.println(a^b);
+//
+//    }
 
 }
