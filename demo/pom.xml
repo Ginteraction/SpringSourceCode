@@ -37,6 +37,66 @@
 <!--            <artifactId>spring-boot-starter-security</artifactId>-->
 <!--        </dependency>-->
 
+
+        <!--LiteFlow核心依赖  参照博客1 https://blog.csdn.net/xiaosong2001/article/details/130865996-->
+<!--        <dependency>-->
+<!--            <groupId>com.yomahub</groupId>-->
+<!--            <artifactId>liteflow-spring-boot-starter</artifactId>-->
+<!--            <version>2.10.3</version>-->
+<!--        </dependency>-->
+<!--        &lt;!&ndash;LiteFlow配置源依赖&ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>com.yomahub</groupId>-->
+<!--            <artifactId>liteflow-rule-sql</artifactId>-->
+<!--            <version>2.10.3</version>-->
+<!--        </dependency>-->
+<!--        &lt;!&ndash;LiteFlow脚本语言依赖&ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>com.yomahub</groupId>-->
+<!--            <artifactId>liteflow-script-groovy</artifactId>-->
+<!--            <version>2.10.3</version>-->
+<!--        </dependency>-->
+
+<!--   liteFlow集成2   https://blog.csdn.net/jyf13627039090/article/details/131459079 -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <!--mybatis-->
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>2.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <!--liteFlow依赖包-->
+        <dependency>
+            <groupId>com.yomahub</groupId>
+            <artifactId>liteflow-spring-boot-starter</artifactId>
+            <version>2.10.3</version>
+        </dependency>
+        <!--liteFlow配合数据库使用-->
+        <dependency>
+            <groupId>com.yomahub</groupId>
+            <artifactId>liteflow-rule-sql</artifactId>
+            <version>2.10.3</version>
+        </dependency>
+        <!-- MySQL驱动 -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.27</version>
+        </dependency>
+
+
+
+
+
+
     </dependencies>
 
     <build>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flow>
+<!--    <nodes>-->
+<!--        <node id="a" class="com.example.demo.liteflow.ANode"/>-->
+<!--        <node id="b" class="com.example.demo.liteflow.BNode"/>-->
+<!--        <node id="c" class="com.example.demo.liteflow.CNode"/>-->
+<!--    </nodes>-->
+    <!--    <transition from="a" to="a"/>-->
+    <chain name="chain1">
+        THEN(a, b, c);
+<!--        <then value="a,b,c"/>-->
+    </chain>
+</flow>

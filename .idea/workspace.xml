@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07f4d1c6-544e-4fc6-a9ba-7d63ecf9f69a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_core_5_8_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_QLExpress_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_transmittable_thread_local_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yomahub_liteflow_core_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yomahub_liteflow_spring_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yomahub_liteflow_spring_boot_starter_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/liteflow/ANode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/liteflow/BNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/liteflow/CNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/liteflow.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/SecurityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/SecurityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/controller/SecurityController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/controller/SecurityController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +48,14 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +91,9 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.liteflow" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\git\java-datafram-algorithm\demo\src\com.day08" />
     </key>
@@ -102,7 +135,8 @@
       <workItem from="1565004273599" duration="1021000" />
       <workItem from="1695891016242" duration="33000" />
       <workItem from="1695891095763" duration="1300000" />
-      <workItem from="1695892443012" duration="807000" />
+      <workItem from="1695892443012" duration="3274000" />
+      <workItem from="1696761099551" duration="3770000" />
     </task>
     <servers />
   </component>
@@ -123,38 +157,62 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="406" key="GridCell.Tab.0.bottom" timestamp="1695893257830">
+    <state x="2685" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1695896961877">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="406" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1695893257830" />
-    <state width="1877" height="406" key="GridCell.Tab.0.center" timestamp="1695893257830">
+    <state x="2685" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1695896961877" />
+    <state x="2635" y="222" key="#xdebugger.evaluate" timestamp="1696762643123">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="406" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1695893257830" />
-    <state width="1877" height="406" key="GridCell.Tab.0.left" timestamp="1695893257830">
+    <state x="2635" y="222" key="#xdebugger.evaluate/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696762643123" />
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom" timestamp="1696833447330">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="406" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1695893257830" />
-    <state width="1877" height="406" key="GridCell.Tab.0.right" timestamp="1695893257830">
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833447330" />
+    <state width="1877" height="240" key="GridCell.Tab.0.center" timestamp="1696833447330">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="406" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1695893257830" />
-    <state width="1877" height="406" key="GridCell.Tab.1.bottom" timestamp="1695893257830">
+    <state width="1877" height="240" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833447330" />
+    <state width="1877" height="240" key="GridCell.Tab.0.left" timestamp="1696833447330">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="406" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1695893257830" />
-    <state width="1877" height="406" key="GridCell.Tab.1.center" timestamp="1695893257830">
+    <state width="1877" height="240" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833447330" />
+    <state width="1877" height="240" key="GridCell.Tab.0.right" timestamp="1696833447330">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="406" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1695893257830" />
-    <state width="1877" height="406" key="GridCell.Tab.1.left" timestamp="1695893257830">
+    <state width="1877" height="240" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833447330" />
+    <state width="1877" height="240" key="GridCell.Tab.1.bottom" timestamp="1696833469252">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="406" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1695893257830" />
-    <state width="1877" height="406" key="GridCell.Tab.1.right" timestamp="1695893257830">
+    <state width="1877" height="240" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833469252" />
+    <state width="1877" height="240" key="GridCell.Tab.1.center" timestamp="1696833469252">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="406" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1695893257830" />
+    <state width="1877" height="240" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833469252" />
+    <state width="1877" height="240" key="GridCell.Tab.1.left" timestamp="1696833469252">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833469252" />
+    <state width="1877" height="240" key="GridCell.Tab.1.right" timestamp="1696833469252">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833469252" />
+    <state width="1877" height="240" key="GridCell.Tab.2.bottom" timestamp="1696833447098">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.2.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833447098" />
+    <state width="1877" height="240" key="GridCell.Tab.2.center" timestamp="1696833447097">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.2.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833447097" />
+    <state width="1877" height="240" key="GridCell.Tab.2.left" timestamp="1696833447097">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.2.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833447097" />
+    <state width="1877" height="240" key="GridCell.Tab.2.right" timestamp="1696833447097">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.2.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696833447097" />
     <state x="2123" y="0" key="SettingsEditor" timestamp="1695892573211">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -164,10 +222,50 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="329" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1695891018363" />
+    <state x="2556" y="119" width="647" height="801" key="find.popup" timestamp="1696762693903">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2556" y="119" width="647" height="801" key="find.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1696762693903" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1695892901392">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1695892901392" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/SecurityController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/liteflow/ANode.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/SecurityController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/SecurityController.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/liteflow/BNode.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/liteflow/CNode.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
