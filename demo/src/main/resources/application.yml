@@ -9,17 +9,22 @@ server:
 liteflow:
 #  rule-source配置了加载的xml规则文件，有了这个才能找到对应chainId
   rule-source: liteflow.xml
-  rule-source-ext-data-map:
-    url: jdbc:mysql://101.43.85.228:3306/poseidon
-    driverClassName: com.mysql.cj.jdbc.Driver
-    username: root
-    password: Ginteraction
-    applicationName: demo
-    #以下是chain表的配置，这个一定得有
-    chainTableName: chain
-    chainApplicationNameField: application_name
-    chainNameField: chain_name
-    elDataField: el_data
+
+
+#  rule-source-ext-data-map:
+#    url: jdbc:mysql://101.43.85.228:3306/poseidon
+#    driverClassName: com.mysql.cj.jdbc.Driver
+#    username: root
+#    password: Geinateraction
+#    applicationName: demo
+#    #以下是chain表的配置，这个一定得有
+#    chainTableName: chain
+#    chainApplicationNameField: application_name
+#    chainNameField: chain_name
+#    elDataField: el_data
+
+
+
     #以下是script表的配置，如果你没使用到脚本，下面可以不配置
 #    scriptTableName: script
 #    scriptApplicationNameField: application_name
